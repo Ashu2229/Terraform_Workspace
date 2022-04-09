@@ -30,7 +30,7 @@ variable "volume_type" {
 
 variable "ec2_key_name" {
   type    = string
-  default = "devops2022"
+  default = "Demo_key"
 }
 
 variable "subnet_name" {
